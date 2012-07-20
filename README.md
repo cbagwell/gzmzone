@@ -1,7 +1,7 @@
 gzmzone - Visual ZoneMinder Zone Setting Tester
 ===============================================
 
-![gzmzone image](http://github.com/cbagwell/gzmzone/gzmzone-screenshot.png)
+![gzmzone image](http://github.com/cbagwell/gzmzone/blob/master/gzmzone-screenshot.png)
 
 This is a tool that will display a series of jpeg images
 from a single directory while running the motion detection
